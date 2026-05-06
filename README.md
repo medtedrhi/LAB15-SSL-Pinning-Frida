@@ -275,9 +275,8 @@ User-Agent: Apache-HttpClient/UNAVAILABLE (java 1.4)
 
 Cette requête montre que l’application envoie les informations de connexion au serveur backend.
 
-Capture associée :
+<img width="1872" height="385" alt="Capture d&#39;écran 2026-05-06 150733" src="https://github.com/user-attachments/assets/886bddee-65a8-4d5d-b61f-cbaf4fa2ae06" />
 
-screenshots/11_burp_http_history.png
 
 16. Détails de la requête login
 
